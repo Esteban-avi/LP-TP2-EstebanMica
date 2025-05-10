@@ -4,6 +4,7 @@
 
 package dev.labintec.demo;
 
+
 /**
  *
  * @author HP Pavilion
@@ -11,6 +12,7 @@ package dev.labintec.demo;
 public class App {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        
+    
     }
 }
